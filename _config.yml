@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Le Bœuf sur le toit"
+title                    : "Today Jihyeon Learned"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "milhaud42"
-description              : "An amazing website."
+description              : "Today Jihyeon Learned."
 url                      : "https://HeileyP.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
